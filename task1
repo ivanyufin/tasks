@@ -1,0 +1,12 @@
+using System;
+
+namespace name
+{
+  Class clas
+  {
+    static void Main()
+    {
+      Console.WriteLine("GitHub");
+    }
+  }
+}
